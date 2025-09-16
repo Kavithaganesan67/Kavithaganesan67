@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java, HTML, CSS, MySQL**
+- 🔭 I’m currently working on **React, Next, Node, Nest, MySQL, PostgreSQL**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Javascript and React**
+- 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **HTML,CSS, Java, MySQL**
+- 💬 Ask me about **React, Next, Node, Nest, PostgreSQL, MySQL**
 
 - 📫 How to reach me **kavithaganesan117@gmail.com**
 
